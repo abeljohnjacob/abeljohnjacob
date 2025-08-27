@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and designer. Here 
 
 
 ## 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abeljohnjacob.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abeljohnjacob.github.io/Portfolio/)
 
 
 ## 💻 Tech Stack:
