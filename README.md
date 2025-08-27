@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Abel+John+Jacob;Web+Developer+and+Designer;Learning+-+Building+-+Growing+in+Tech)](https://github.com/abeljohnjacob)
 
-Welcome to my GitHub profile! I'm a passionate web developer and designer. Here you will find my projects, experiments, and contributions related to cybersecurity and tech.
+Welcome to my GitHub profile! I'm a passionate web developer and designer. Here you will find my projects, experiments, and contributions showcasing my journey in tech.
 
 
 ## 🌐 Portfolio
