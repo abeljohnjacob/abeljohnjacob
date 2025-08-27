@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and designer. Here 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abeljohnjacob.github.io/Portfolio/)
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and designer. Here 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=abeljohnjacob&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abeljohnjacob&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abeljohnjacob&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
