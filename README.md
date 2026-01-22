@@ -14,9 +14,10 @@ Welcome to my GitHub profile! I'm a passionate web developer and designer. Here 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)<br>
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=flat&logo=flask&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-![LightFM](https://img.shields.io/badge/LightFM-%2300599C.svg?style=flat&logo=python&logoColor=white)<br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
 
 ## 📊 GitHub Stats
