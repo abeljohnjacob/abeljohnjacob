@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Abel+John+Jacob;Web+Developer+and+Designer;Learning+-+Building+-+Growing+in+Tech)](https://github.com/abeljohnjacob)
 
-Welcome to my GitHub profile! I'm a passionate web developer and designer. Here you will find my projects, experiments, and contributions showcasing my journey in tech.
+Welcome to my GitHub profile! I'm an MCA graduate with a technical background, looking to build a career in a professional environment where I can learn, contribute, and grow. Here you will find my projects, experiments, and contributions showcasing my journey in Tech.
 
 
 ## 🌐 Portfolio
@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate web developer and designer. Here 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=flat&logo=flask&logoColor=white)<br>
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)<br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
