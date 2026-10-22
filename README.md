@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Abel+John+Jacob;Learning+-+Building+-+Growing+in+Tech;Welcome+to+my+profile)](https://github.com/abeljohnjacob)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Abel+John+Jacob.;Learning+-+Building+-+Growing+in+Tech;Welcome+to+my+profile!)](https://github.com/abeljohnjacob)
 
 I'm an MCA graduate with professional and academic experience in software development, business operations & management and networking & infrastructure. Experienced in making software applications, project tracking and system configuration. Looking for an opportunity to contribute to IT sector while growing technically. Here you will find my projects and contributions showcasing my journey in tech industry.
 
