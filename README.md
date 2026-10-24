@@ -16,8 +16,8 @@ I'm an MCA graduate with professional and academic experience in software develo
 ![XML](https://img.shields.io/badge/XML-%230F52BA.svg?style=flat&logo=xml&logoColor=white)<br>
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23712CF9.svg?style=flat&logo=bootstrap&logoColor=white)<br>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23712CF9.svg?style=flat&logo=bootstrap&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
