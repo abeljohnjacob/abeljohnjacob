@@ -1,10 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Abel+John+Jacob.;Learning+-+Building+-+Growing+in+Tech;Welcome+to+my+profile!)](https://github.com/abeljohnjacob)
 
+
 I'm an MCA graduate with professional and academic experience in software development, business operations & management and networking & infrastructure. Experienced in making software applications, project tracking and system configuration. Looking for an opportunity to contribute to IT sector while growing technically. Here you will find my projects and contributions showcasing my journey in tech industry.
-
-
-## 📧 Email
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abeljr279@gmail.com)
 
 
 ## 💻 Tech Stack
@@ -29,5 +26,6 @@ I'm an MCA graduate with professional and academic experience in software develo
 
 
 ### 📫 Connect with Me
+[![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abeljr279@gmail.com)
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-00954C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abeljohnjacob.github.io/Portfolio/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/abel-john-jacob-27ab15322/)
