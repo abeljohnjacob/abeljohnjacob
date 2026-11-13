@@ -20,12 +20,33 @@ I'm an MCA graduate with professional and academic experience in software develo
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=abeljohnjacob&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abeljohnjacob&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abeljohnjacob&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Overall -->
+<p align="left">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=abeljohnjacob&custom_title=Overall&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&bg_color=000000&title_color=FFA500&text_color=FFFFFF&icon_color=7A6DF0&ring_color=FFA500&hide_border=false&border_color=333333&border_radius=6&card_width=480&line_height=30"
+    width="480"
+    alt="Overall GitHub Stats"
+  />
+</p>
+<!-- Contribution & Streak -->
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com/?user=abeljohnjacob&background=000000&border=333333&stroke=333333&ring=FFA500&fire=FFA500&currStreakNum=7A6DF0&sideNums=FFA500&currStreakLabel=7A6DF0&sideLabels=FFA500&dates=FFFFFF&hide_border=false&border_radius=6&date_format=j%20M%20Y&card_width=495&card_height=195"
+    width="540"
+    alt="Contribution Streak"
+  />
+</p>
+<!-- Most Used Languages -->
+<p align="left">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=abeljohnjacob&custom_title=Most%20Used%20Languages&layout=compact&langs_count=6&theme=vision-friendly-dark&bg_color=000000&title_color=FFA500&text_color=FFFFFF&border_color=333333&border_radius=6&hide_border=false&card_width=520"
+    width="520"
+    alt="Most Used Languages"
+  />
+</p>
 
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 [![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abeljr279@gmail.com)
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-00954C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abeljohnjacob.github.io/Portfolio/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/abel-john-jacob-27ab15322/)
